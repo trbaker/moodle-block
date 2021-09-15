@@ -1,9 +1,12 @@
-# Moodle-block
+# Moodle-block - ArcGIS: Maps we love
 
-This code doesn't include an installer.  To use with Moodle, you'll need to manually add itno your Moodle file structure as a folder called "simplehtml" in the blocks folder.  My local file path looks something like:
+Requires: Moodle 3.11, Moodle administrator to install
 
- local path
- /Applications/MAMP/htdocs/moodle311/blocks/simplehtml
+This Moodle block displays the two most recent "Maps We Love" from Esri.  The content can be found online at: https://www.esri.com/en-us/maps-we-love/overview. The data feed used by the Moddle block is updated daily. More information about creation of the data feed can be found at:
+
+Installation:
+To use with Moodle, you'll need to manually add the "mapswelove" folder itno your Moodle file structure as a folder called "mapswelove" in the Moodle blocks folder.  My local file path on a Mac, looks something like:
+/Applications/MAMP/htdocs/moodle311/blocks/simplehtml
  
  The code herin in based on the blocks tutorial at:
  https://docs.moodle.org/dev/Main_Page
