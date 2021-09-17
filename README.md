@@ -11,7 +11,7 @@ Installation:
 To use with Moodle, you'll need to manually add the "mapswelove" folder itno your Moodle file structure as a folder called "mapswelove" in the Moodle blocks folder.  My local file path on a Mac, looks something like:
 /Applications/MAMP/htdocs/moodle311/blocks/simplehtml
  
- The code herin in based on the blocks tutorial at:
+ The code herin is based on the blocks tutorial at:
  https://docs.moodle.org/dev/Main_Page
  
  
